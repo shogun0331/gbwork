@@ -1,0 +1,11 @@
+{
+  "name": "com.gb.gbframework",
+  "displayName": "GB Framework",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "keywords": [
+    "service"
+  ],
+  "description": "Garibong Framework Package",
+  "documentationUrl": "https://gb-framework.gitbook.io/gb-framework-docs"
+}
